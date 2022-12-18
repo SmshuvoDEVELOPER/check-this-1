@@ -1,0 +1,58 @@
+
+
+.header-background {
+    overflow: hidden;
+}
+
+#header-background {
+    background: linear-gradient(rgba(70, 70, 90, 0.87), rgba(27, 19, 26, 0.87)), url(img/bg.jpg) no-repeat fixed center ;
+    background-size: cover;
+}
+
+.professionals-rigt {
+    background: url(img/P.png);
+     height:585PX;
+     width: auto;
+}
+
+.hover-btn:hover {
+    background-color: rgb(26, 25, 25);
+    color: bisque;
+}
+
+#mt-20 {
+    margin: 25rem auto 0 auto;
+    
+}
+
+.services-section {
+    background: linear-gradient(rgba(70, 70, 90, 0.87), rgba(27, 19, 26, 0.87)), url(img/bg-2.jpg) no-repeat fixed center ;
+    background-size: cover;
+    
+}
+
+
+.background-p-2 {
+    background: linear-gradient(rgba(70, 70, 90, 0.87), rgba(27, 19, 26, 0.87)), url(img/2.png) no-repeat ;
+    height: 519px;
+}
+
+.team-background {
+    background: linear-gradient(rgba(70, 70, 90, 0.87), rgba(27, 19, 26, 0.87)), url(img/bg-3.jpg) no-repeat ;
+    background-size: cover;
+}
+
+
+/* .img1-2-3-disiable {
+    background: linear-gradient(rgba(70, 70, 90, 0.87), rgba(27, 19, 26, 0.87)), url(img/c1.png) no-repeat ;
+
+} */
+
+.img1-2-3-disiable {
+    background: linear-gradient(rgba(70, 70, 90, 0.842), rgba(32, 26, 27, 0.945)), url(img/c1.png);
+    width: 50%;
+}
+
+.left-background  {
+    background: url(img/footer.png);
+}
